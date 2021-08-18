@@ -1,1 +1,2 @@
-nano up_to_date
+git remote add upstream https://github.com/siyamthandatsobo/alx-zero_day.git
+git pull upstream main
